@@ -1,5 +1,5 @@
-## 💻 Software Engineer
-<br>
+# 💻 Software Engineer
+
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&username=goodkidali" height="175" alt="languages graph"  />
    <img src="https://github.com/goodkidali/goodkidali/blob/output/github-contribution-grid-snake.svg" height="155" alt="Snake animation" />
