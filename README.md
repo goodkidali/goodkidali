@@ -13,7 +13,7 @@ I like to make random projects in a wide variety of languages to explore the wor
 I am very interested in technology and love to learn new languages and techniques/algorithms to increase my efficiency and expertise in this field. I am a dedicated and motivated learner/worker
 and strive to go above and beyond expectations.
 
-
+<br>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/ali-software/" target="_blank">
