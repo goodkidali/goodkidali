@@ -17,6 +17,3 @@ and strive to go above and beyond expectations.
 <a href="https://www.linkedin.com/in/ali-software/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-<div align="center">
-  <img src="https://github.com/goodkidali/goodkidali/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
