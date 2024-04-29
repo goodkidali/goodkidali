@@ -6,7 +6,7 @@
 
 
 <p>
- Hello! My name is Ali Saheb and I am an aspiring Software Engineer. I am currently in my 3rd year studying at Lassonde School of Engineering, York University - (B.Eng) Spec. Hons. Software Engineering.
+ Hello! My name is Ali Saheb and I am an aspiring Software Engineer, attending Lassonde School of Engineering, York University - (B.Eng) Spec. Hons. Software Engineering.
 
 I like to make random projects in a wide variety of languages to explore the world of coding and further my knowledge and understanding of programming & software development.
 
