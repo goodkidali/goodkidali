@@ -4,14 +4,18 @@
    <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&username=goodkidali&hide=TypeScript,Shell" height="175" alt="languages graph"  />   
 </div>
 
+<br>
 
 <p>
- Hello! My name is Ali Saheb and I am an aspiring Software Engineer, attending Lassonde School of Engineering, York University - (B.Eng) Spec. Hons. Software Engineering.
+👋 Hi, I'm Ali!
 
-I like to make random projects in a wide variety of languages to explore the world of coding and further my knowledge and understanding of programming & software development.
+👨‍💻 I'm a dedicated software engineering student with a passion for building innovative solutions. I thrive on learning new technologies and enjoy the process of turning ideas into reality through code.
 
-I am very interested in technology and love to learn new languages and techniques/algorithms to increase my efficiency and expertise in this field. I am a dedicated and motivated learner/worker
-and strive to go above and beyond expectations. 
+💻 Over the course of my studies and personal projects, I've gained experience with a range of programming languages and development tools. I'm always seeking to deepen my knowledge and apply what I've learned in meaningful ways.
+
+🚀 I approach challenges with enthusiasm, viewing them as opportunities to grow both technically and personally.
+
+🤝 I'm excited to connect with like-minded professionals and explore new opportunities together!
 </p>
 
 <a href="https://www.linkedin.com/in/ali-software/" target="_blank">
