@@ -21,5 +21,5 @@
 <br>
 
 <a href="https://www.linkedin.com/in/ali-software/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Ali Saheb&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=Ali%20Saheb&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
